@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋🏿, I'm Ashley Patricks Full Stack Engineer 👨🏿‍💻</h1>
+<h1 align="center">Hi 👋🏿, I'm Ashley Patricks</h1>
+<h2 align="center">Full Stack Engineer 👨🏿‍💻</h2>
 <h3 align="center">A passionate technologist from London who now resides in Amsterdam, The Netherlands.</h3>
 
 - 🔭I'm currently working on an iDEAL Fintech Integration. [iDEAL](https://www.ideal.nl/en/)
