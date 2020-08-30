@@ -9,9 +9,9 @@
 
 - 💬 Ask me about anything to do with **React, AWS Cloud, Serverless Framework, Full Stack software development.**
 
-- 📫 How to reach me **ash.m.patricks@gmail.com**
+- 📫 How to reach me: **ash.m.patricks@gmail.com**
 
-- ⚡ Fun fact **I love bboying.**
+- ⚡ Fun fact: **I love bboying.**
 
 <br />
 
