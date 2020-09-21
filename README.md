@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning about **Cryptography, Dapps, playing the Drums 🥁.**
 
-- 💬 Ask me about anything to do with **React, AWS Cloud, Serverless Framework, Full Stack software development.**
+- 💬 Ask me about anything. Currently working on: **React, AWS Cloud, Serverless Framework, Full Stack software development.**
 
 - 📫 How to reach me: **ash.m.patricks@gmail.com**
-
-- ⚡ Fun fact: **I love bboying.**
 
 <br />
 
