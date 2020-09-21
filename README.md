@@ -3,11 +3,9 @@
 <h3 align="center">A techie from London. Residing in Amsterdam, The Netherlands.</h3>
 <br />
 
-- 🔭I'm currently working on an iDEAL Fintech Integration. [iDEAL](https://www.ideal.nl/en/)
+- 🔭 Currently working on an iDEAL Fintech Integration. Read more here: [iDEAL](https://www.ideal.nl/en/)
 
-- 🌱 I’m currently learning about **Cryptography, Dapps, playing the Drums 🥁.**
-
-- 💬 Ask me about anything. Currently working on: **React, AWS Cloud, Serverless Framework, Full Stack software development.**
+- 🌱 Currently learning about **Cryptography, Dapps, playing the Drums 🥁.**
 
 - 📫 How to reach me: **ash.m.patricks@gmail.com**
 
