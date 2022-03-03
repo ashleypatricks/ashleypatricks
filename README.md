@@ -1,6 +1,6 @@
 <h1 align="center">Ashley Patricks</h1>
 <h2 align="center">Full Stack Engineer 👨🏿‍💻</h2>
-<h3 align="center">A techie from London. Residing in Amsterdam, The Netherlands.</h3>
+<h3 align="center">LONDON | AMSTERDAM</h3>
 <br />
 
 - 🔭 Currently working on an iDEAL Fintech Integration. Read more here: [iDEAL](https://www.ideal.nl/en/)
