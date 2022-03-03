@@ -12,4 +12,4 @@
 <br />
 
 
-<p alig="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashleypatricks&show_icons=true" alt="ashleypatricks" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashleypatricks&show_icons=true" alt="ashleypatricks" /></p>
