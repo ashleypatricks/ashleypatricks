@@ -12,7 +12,7 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashleypatricks&show_icons=true" alt="ashleypatricks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashleypatricks&show_icons=true" alt="ashleypatricks" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleypatricks&layout=compact&hide=html" alt="ashleypatricks" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/ashleypatricks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashleypatricks" height="30" width="30" /></a>
