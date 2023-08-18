@@ -4,8 +4,6 @@
 <br />
 
 <p align="center">💡 Turning ideas into digital products</p>
-<p align="center">📫  ashley@algorhythmsnare.com</p>
-<p align="center">www.algorhythmsnare.com  / www.ashleypatricks.com</p> 
 
 <br />
 
