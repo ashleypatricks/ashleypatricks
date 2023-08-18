@@ -2,7 +2,6 @@
 <h2 align="center">Principle Full Stack Engineer 👨🏿‍💻</h2>
 <h3 align="center">🌎 London & Amsterdam</h3>
 <br />
-
 <p align="center">💡 Turning ideas into digital products</p>
 
 <br />
